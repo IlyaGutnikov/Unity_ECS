@@ -6,7 +6,7 @@ using Unity.Rendering;
 using Unity.Transforms;
 using Random = UnityEngine.Random;
 
-public class Testing : MonoBehaviour
+public class TestingEcs : MonoBehaviour
 {
     [SerializeField] private Mesh _mesh;
     [SerializeField] private Material _material;
