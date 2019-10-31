@@ -144,6 +144,7 @@ public struct ReallyToughJob : IJob
     }
 }
 
+[BurstCompile]
 public struct ReallyToughParallelJob : IJobParallelFor
 {
     public NativeArray<float3> PositionArray;
