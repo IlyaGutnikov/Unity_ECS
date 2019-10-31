@@ -150,6 +150,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9964dfb43f292c24b9db4e9269551ccf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _useJobs: 1
+  _pfZombie: {fileID: 2266972826713117134, guid: 907cbfc0e5b13da4eba7baf31b943af8,
+    type: 3}
 --- !u!4 &509621767
 Transform:
   m_ObjectHideFlags: 0
